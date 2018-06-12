@@ -7,5 +7,6 @@ Hibernate
 Apache Velocity
 Java Mail
 JSP/JSTL
-HTML, CSS, Bootstrap, Jquery
+HTML, CSS, Bootstrap, Jquery, AngularJS
 GIT
+WEB SERVICE :Rest
